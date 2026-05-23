@@ -4,4 +4,6 @@
 
 3: type in npm install
 
+4: type in npm audit fix --force
+
 4: npm run dev
